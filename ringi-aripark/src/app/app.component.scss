@@ -1,0 +1,11 @@
+.border {
+    position: fixed;
+    width: 100vw;
+    height: 100vh;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 1020;
+    box-shadow: inset 0px 0px 0px 15px white;
+}
